@@ -1,0 +1,3 @@
+http://clouddev-project2-fileteredimage-lz.us-east-1.elasticbeanstalk.com
+
+http://clouddev-project2-fileteredimage-lz.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/08/45438_3B5B5E1FD8856767-1.jpeg
