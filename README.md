@@ -1,22 +1,24 @@
-# Archival Note
-**Fork** the Udacity's repository to your personal Github account and clone to your local. We do not encourage pushing your personal development work to the Udacity's starter repository. Therefore, we've decided to archive this repository. However, learners will be able to fork it to their personal Github account but cannot submit PRs to this repository. If you have any issues or suggestions to make, feel free to:
-- Utilize the https://knowledge.udacity.com/ forum to seek help on content-specific issues.
-- Submit a support ticket along with the link to your forked repository if (learners are) blocked for other reasons. You can find the link to file a support ticket in your classroom home. 
+# Full Stack Apps on AWS Project
 
-# ND9990 cloud-developer
-Content for Udacity's cloud developer nanodegree's following two courses:
-* Course 02 - Full Stack Apps on AWS
-* Course 04 - Develop & Deploy Serverless App
+You have been hired as a software engineer to develop an application that will help the FBI find missing people.  The application will upload images to the FBI cloud database hosted in AWS. This will allow the FBI to run facial recognition software on the images to detect a match. You will be developing a NodeJS server and deploying it on AWS Elastic Beanstalk. 
+You will build upon the application we've developed during the lessons in this course. You'll complete a REST API endpoint in a backend service that processes incoming image URLs.
 
-Here is the repository structure:
-```bash
-├── README.md
-├── course-02
-│   ├── exercises
-│   └── project
-└── course-04
-    ├── exercises
-    └── project
-```
+## Getting Started
 
+You can clone this repo to run the project locally, or navigate to the workspace in the Udacity course.
 
+## Project Instructions
+
+To complete this project, you will need to:
+
+* Set up node environment
+* Create a new endpoint in the server.js file
+* Deploying your system
+
+## Testing
+
+Successful URL responses should have a 200 code. Ensure that you include error codes for the scenario that someone uploads something other than an image and for other common errors.
+
+## License
+
+[License](LICENSE.txt)
